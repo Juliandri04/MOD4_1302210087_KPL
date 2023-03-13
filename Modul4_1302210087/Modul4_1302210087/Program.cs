@@ -32,5 +32,9 @@ public class main
             Console.WriteLine("Tombol arah bawah ditekan");
 
         }
+        else if ((declare == posisiKarakterGame.StatKey.Tengkurep || declare == posisiKarakterGame.StatKey.Jongkok || declare == posisiKarakterGame.StatKey.Berdiri || declare == posisiKarakterGame.StatKey.Terbang) && sesuatu != null && sesuatu == "TombolW")
+        {
+            Console.WriteLine("Tombol arah atas ditekan");
+        }
     }
 }
