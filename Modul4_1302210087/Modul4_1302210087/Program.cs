@@ -11,6 +11,7 @@ class KodeBuah
     }
 }
 
+
 class posisiKarakterGame
 {
     public enum StatKey {Tengkurep, Jongkok, Berdiri, Terbang}

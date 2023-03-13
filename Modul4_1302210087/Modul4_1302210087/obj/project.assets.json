@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Modul4_1302210087\\Modul4_1302210087\\Modul4_1302210087.csproj",
+      "projectUniqueName": "E:\\mod3\\MOD4_1302210087_KPL\\Modul4_1302210087\\Modul4_1302210087\\Modul4_1302210087.csproj",
       "projectName": "Modul4_1302210087",
-      "projectPath": "E:\\Modul4_1302210087\\Modul4_1302210087\\Modul4_1302210087.csproj",
+      "projectPath": "E:\\mod3\\MOD4_1302210087_KPL\\Modul4_1302210087\\Modul4_1302210087\\Modul4_1302210087.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "E:\\Modul4_1302210087\\Modul4_1302210087\\obj\\",
+      "outputPath": "E:\\mod3\\MOD4_1302210087_KPL\\Modul4_1302210087\\Modul4_1302210087\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
